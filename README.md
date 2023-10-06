@@ -1,7 +1,8 @@
----
+
 title: BabaIsYou
 publishDate: 2020-03-02 00:00:00
-<img width="423" alt="babaIsYou" src="https://github.com/ElMamouneBenmassaoud/babaIsYou/assets/101842968/5f81db1f-4dd2-4016-9241-9ba9a6eb806b">
+<img width="423" alt="babaIsYou" src="https://github.com/ElMamouneBenmassaoud/babaIsYou/assets/101842968/1822701d-4bce-4491-aad4-0eab4820d670">
+
 
 description: Implementation of famous Baba Is You from scratch using C++20
 tags:
